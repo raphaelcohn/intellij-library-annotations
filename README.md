@@ -1,6 +1,6 @@
 # intellij-library-annotations
 
-`intellij-library-annotations` provides the [IntelliJ IDEA] Annotations library with a bundled IntelliJ annotations.xml for reuse in multiple [IntelliJ IDEA] projects.
+intellij-library-annotations provides the [IntelliJ IDEA] Annotations library with a bundled IntelliJ `annotations.xml` for reuse in multiple [IntelliJ IDEA] projects.
 
 
 ## Usage
